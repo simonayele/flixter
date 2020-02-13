@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A two sided video streaming marketplace platform where users can post their educational video streams for free or a cost.
 
-Things you may want to cover:
+Features
 
-* Ruby version
+  Credit card payment capabilities (uses the Stripe API)
+  Bootdtrap
 
-* System dependencies
+Coding Language
 
-* Configuration
+  Ruby in Rails
+ 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
