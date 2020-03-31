@@ -5,7 +5,7 @@ A two sided video streaming marketplace platform where users can post their educ
 ## Features
 
   Credit card payment capabilities (uses the Stripe API)
-  Bootdtrap
+  Bootstrap
 
 ## Coding Language
 
