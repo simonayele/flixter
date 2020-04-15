@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6, .navbar {
 }
 
 .btn {
-  border-radius: 0;
+  border-radius: 1;
 }
 
 .feature {
@@ -146,4 +146,8 @@ ul .header .fa {
 
 .lessons li p {
   margin: 0;
+}
+
+.form-check-input {
+    margin-left: 0;
 }
